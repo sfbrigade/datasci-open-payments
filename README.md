@@ -1,4 +1,4 @@
-# Conflict of Interest: Mental Health Finance and RX: A Case Study in San Francisco
+# Finance Alignment and Prescribing Patterns: A Case Study in San Francisco
 
 ## Problem Statement
 Pharmaceutical companies invest heavily in marketing. Between 1990 and 2008, pharmaceutical expenditures on marketing increased more than six-fold from $3 billion dollars to $20.5 billion dollars (Congressional Budget Office, 2009). A large fraction of these dollars are through the form of detailing, in which drug companies provide financial incentives to prescribers in the form of information, free samples, meals, and gifts. In 2010, the Physician Payment and Sunshine Act, a provision of Obamacare, was passed to increase the financial transparency between prescribers and pharmaceutical manufacturers, allowing us to finally know the magnitude of detailing. From 2013 - 2017, pharmaceutical manufacturers made payments worth a total of $33 Billion to providers, with $8.3 Billion coming in 2017.
